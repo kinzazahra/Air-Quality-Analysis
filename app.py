@@ -227,7 +227,7 @@ def run_air_quality_app():
     st.set_page_config(layout="wide", page_title="Air Quality Dashboard", page_icon="🌍")
     apply_custom_css()
 
-    st.markdown('<h1 class="main-header">🌍 Air Quality Dashboard — Enhanced</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">🌍 Air Quality Dashboard </h1>', unsafe_allow_html=True)
     st.markdown('<div class="small-note">NPI = Normalized Pollutant Index (0.0 - 1.0). AQI (simplified) shown for quick interpretation.</div>', unsafe_allow_html=True)
     st.write("")
 
