@@ -73,4 +73,4 @@ Mobile optimization
 
 Developed with a vision for a cleaner and healthier future.
 
-— Kinza Zahra
+— Made by Kinza Zahra
