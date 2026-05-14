@@ -1,4 +1,4 @@
-#🌍 Air Quality Analysis Dashboard
+🌍 Air Quality Analysis Dashboard
 
 A powerful, data-driven web application designed to monitor and visualize air quality metrics across multiple cities. It transforms complex environmental data into actionable insights through an interactive dashboard, helping users track pollution and understand trends in real time.
 
