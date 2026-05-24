@@ -1,56 +1,78 @@
-🌍 Air Quality Analysis Dashboard
+# 🌍 Air Quality Analysis Dashboard
 
 A powerful, data-driven web application designed to monitor and visualize air quality metrics across multiple cities. It transforms complex environmental data into actionable insights through an interactive dashboard, helping users track pollution and understand trends in real time.
 
-✨ Features
-📊 Interactive Data Visualization
-Pollutant Trends
+---
 
+# ✨ Features
+
+## 📊 Interactive Data Visualization
+
+### Pollutant Trends
 Track PM2.5, PM10, NO₂, and CO levels over time using dynamic charts.
 
-City Comparisons
-
+### City Comparisons
 Compare AQI levels across different cities with interactive bar charts.
 
-Correlation Analysis
-
+### Correlation Analysis
 Explore relationships between pollutants and weather conditions using heatmaps and scatter plots.
 
-🌫 Comprehensive AQI Monitoring
-Real-time AQI Categorization
+---
 
+## 🌫 Comprehensive AQI Monitoring
+
+### Real-time AQI Categorization
 Monitor air quality using standard AQI categories:
 
-Good
-Satisfactory
-Moderate
-Poor
-Very Poor
-Severe
-Location-Based Filtering
+- Good
+- Satisfactory
+- Moderate
+- Poor
+- Very Poor
+- Severe
 
+### Location-Based Filtering
 Filter and analyze data for specific cities to gain localized insights.
 
-📈 Data-Driven Insights
-Statistical summaries to understand pollution impact on health
-Efficient processing of large datasets using optimized Python libraries
-Insightful analytics for better environmental understanding
-💻 Modern Web Interface
-Built with Streamlit for a clean and responsive UI
-Sidebar navigation for easy filtering and interaction
-Interactive and user-friendly dashboard experience
-🛠 Tech Stack
-Frontend & Dashboard
-Streamlit
-Data Processing
-Pandas
-NumPy
-Visualization
-Plotly
-Matplotlib / Seaborn
-Environment
-Python
-📂 Project Structure
+---
+
+## 📈 Data-Driven Insights
+
+- Statistical summaries to understand pollution impact on health
+- Efficient processing of large datasets using optimized Python libraries
+- Insightful analytics for better environmental understanding
+
+---
+
+## 💻 Modern Web Interface
+
+- Built with **Streamlit** for a clean and responsive UI
+- Sidebar navigation for easy filtering and interaction
+- Interactive and user-friendly dashboard experience
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend & Dashboard
+- Streamlit
+
+## Data Processing
+- Pandas
+- NumPy
+
+## Visualization
+- Plotly
+- Matplotlib / Seaborn
+
+## Environment
+- Python
+
+---
+
+# 📂 Project Structure
+
+```bash
 air-quality-analysis/
 │
 ├── app.py
