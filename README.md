@@ -2,41 +2,53 @@
 
 A powerful, data-driven web application designed to monitor and visualize air quality metrics across multiple cities. It transforms complex environmental data into actionable insights through an interactive dashboard, helping users track pollution and understand trends in real time.
 
-
 ✨ Features
 📊 Interactive Data Visualization
-Pollutant Trends: Track PM2.5, PM10, NO₂, and CO levels over time using dynamic charts
-City Comparisons: Compare AQI levels across different cities with bar charts
-Correlation Analysis: Explore relationships between pollutants and weather using heatmaps and scatter plots
+Pollutant Trends
+
+Track PM2.5, PM10, NO₂, and CO levels over time using dynamic charts.
+
+City Comparisons
+
+Compare AQI levels across different cities with interactive bar charts.
+
+Correlation Analysis
+
+Explore relationships between pollutants and weather conditions using heatmaps and scatter plots.
+
 🌫 Comprehensive AQI Monitoring
-Real-time AQI categorization:
-Good, Satisfactory, Moderate, Poor, Very Poor, Severe
-Location-based filtering for city-specific insights
+Real-time AQI Categorization
+
+Monitor air quality using standard AQI categories:
+
+Good
+Satisfactory
+Moderate
+Poor
+Very Poor
+Severe
+Location-Based Filtering
+
+Filter and analyze data for specific cities to gain localized insights.
+
 📈 Data-Driven Insights
-Statistical summaries of pollution impact on health
+Statistical summaries to understand pollution impact on health
 Efficient processing of large datasets using optimized Python libraries
+Insightful analytics for better environmental understanding
 💻 Modern Web Interface
 Built with Streamlit for a clean and responsive UI
 Sidebar navigation for easy filtering and interaction
 Interactive and user-friendly dashboard experience
 🛠 Tech Stack
-
-Frontend & Dashboard:
-
+Frontend & Dashboard
 Streamlit
-
-Data Processing:
-
+Data Processing
 Pandas
 NumPy
-
-Visualization:
-
+Visualization
 Plotly
 Matplotlib / Seaborn
-
-Environment:
-
+Environment
 Python
 📂 Project Structure
 air-quality-analysis/
@@ -58,6 +70,7 @@ Run the Application
 streamlit run app.py
 
 Access the dashboard at:
+
 👉 http://localhost:8501
 
 🚀 How to Use
@@ -70,7 +83,8 @@ Integration with real-time APIs (OpenWeatherMap, CPCB)
 AQI prediction for the next 24–48 hours
 Email alerts for poor air quality
 Mobile optimization
+👩‍💻 Developed By
 
-Developed with a vision for a cleaner and healthier future.
+Kinza Zahra
 
-— Made by Kinza Zahra
+Built with a vision for a cleaner and healthier future.
